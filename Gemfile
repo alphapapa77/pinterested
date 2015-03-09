@@ -17,6 +17,7 @@ end
 
 gem 'bootstrap-sass', '~> 3.3.3'
 gem 'devise', '~> 3.4.1'
+gem 'paperclip', '~> 4.2.1'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
